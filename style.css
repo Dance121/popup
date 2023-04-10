@@ -50,4 +50,5 @@ body {
 img{
     max-width: 300px;
     aspect-ratio: 3/4;
+    object-fit: cover;
 }
